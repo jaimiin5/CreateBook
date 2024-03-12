@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CreateBook/static/css/main.d75eb205.css",
+    "main.js": "/CreateBook/static/js/main.12400220.js",
+    "index.html": "/CreateBook/index.html",
+    "main.d75eb205.css.map": "/CreateBook/static/css/main.d75eb205.css.map",
+    "main.12400220.js.map": "/CreateBook/static/js/main.12400220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75eb205.css",
+    "static/js/main.12400220.js"
+  ]
+}
